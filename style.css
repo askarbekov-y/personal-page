@@ -1,5 +1,5 @@
 body {
-    font-family: Lato;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 #header {
     background-color: dimgray;
@@ -20,7 +20,7 @@ h1 {
 }
 #about {
     display: flex;
-    /* height: 24.5rem; */
+    height: 24.5rem;
 }
 
 h3 {
