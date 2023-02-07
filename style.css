@@ -1,0 +1,36 @@
+body {
+    font-family: Lato;
+}
+#header {
+    background-color: dimgray;
+    height: 2.5rem;
+    border-bottom: 2rem solid lightcoral;
+}
+h1 {
+    font-size: 1.5rem;
+    color: white;
+}
+#title {
+    height: 25.5rem;
+    background-color: lightgray;
+    text-align: center;
+}
+* {
+    margin: 0;
+}
+#about {
+    display: flex;
+    /* height: 24.5rem; */
+}
+
+h3 {
+    color: lightcoral;
+    width: 10rem;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 2rem;
+}
+#fav {
+    display: flex;
+    justify-content: space-evenly;
+}
