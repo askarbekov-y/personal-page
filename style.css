@@ -20,6 +20,9 @@ h1 {
 }
 #about {
     display: flex;
+    
+}
+#about_image {
     height: 24.5rem;
 }
 
