@@ -22,23 +22,22 @@ body {
     flex-grow: 1;
     
 }
-.box1 {
-    width: 240px;
+.box1,.box2,.box3,.box4,.box5,.box6{
     height: 200px;
+}
+
+.box1 {
+    flex-basis: 240px;
 }
 .box2, .box3 {
-    width: 555px;
-    height: 200px;
+    flex-basis: 555px;
 }
 .box4 {
-    width: 1020px;
-    height: 200px;
+    flex-basis: 1020px;
 }
 .box5 {
-    width: 200px;
-    height: 200px;
+    flex-basis: 200px;
 }
 .box6 {
-    width: 600px;
-    height: 200px;
+    flex-basis: 600px;
 }
