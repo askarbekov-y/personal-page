@@ -35,17 +35,20 @@ body {
     border: 2px firebrick solid;
     flex-grow: 1;
 }
+
 ul {
     list-style: none;
     padding: 0;
     display: flex;
     gap: 0.5rem;
+    flex-wrap: wrap;
     
 }
 ul > * {
     background: pink;
     padding: .5rem;
 }
+
 .info{
     display: flex;
     flex-direction: column;
@@ -93,4 +96,4 @@ button {
     border: none;
     width: 100%;
     color: white;
-}
+}*/
